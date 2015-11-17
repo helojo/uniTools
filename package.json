@@ -1,0 +1,6 @@
+{
+  "name": "uniTools",
+  "bin": {
+    "uniTools": "uniTools"
+  }
+}
