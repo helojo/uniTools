@@ -1,0 +1,8 @@
+{
+    "LoginUrl": "http://server.login.bwgame.com.cn:7000/httplogin",
+    "GameID": 1000,
+    "ZoneID": 301,
+    "debug": 0,
+    "res": {
+    }
+}

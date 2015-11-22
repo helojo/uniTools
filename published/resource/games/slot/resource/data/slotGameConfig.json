@@ -1,0 +1,60 @@
+{
+        "oneBette": "100,500,1000,10000,100000",
+        "slotSeat": [
+            { "seatidx": 1, "id": 11, "name": "银鲨鱼", "position":"2,3", "src":"sharkItem_1_png"},
+            { "seatidx": 2, "id": 4, "name": "老鹰" ,   "position":"71,7", "src":"sharkItem_6_png"},
+            { "seatidx": 3, "id": 4, "name": "老鹰" , 	"position":"137,7", "src":"sharkItem_6_png"},
+            { "seatidx": 4, "id": 4, "name": "老鹰" , 	"position":"203,7", "src":"sharkItem_6_png"},
+            { "seatidx": 5, "id": 12, "name": "金鲨鱼" ,"position":"269,4", "src":"sharkItem_0_png"},
+            { "seatidx": 6, "id": 5, "name": "狮子" , 	"position":"357,7", "src":"sharkItem_2_png"},
+            { "seatidx": 7, "id": 5, "name": "狮子" , 	"position":"420,7", "src":"sharkItem_2_png"},
+            { "seatidx": 8, "id": 5, "name": "狮子" , 	"position":"484,7", "src":"sharkItem_2_png"},
+            { "seatidx": 9, "id": 11, "name": "银鲨鱼" ,"position":"552,3", "src":"sharkItem_1_png"},
+            { "seatidx": 10, "id": 6, "name": "熊猫" , 	"position":"551,90", "src":"sharkItem_3_png"},
+            { "seatidx": 11, "id": 6, "name": "熊猫" , 	"position":"551,175", "src":"sharkItem_3_png"},
+            { "seatidx": 12, "id": 12, "name": "金鲨鱼","position":"529,255", "src":"sharkItem_0_png"},
+            { "seatidx": 13, "id": 7, "name": "猴子" , 	"position":"552,367", "src":"sharkItem_4_png"},
+            { "seatidx": 14, "id": 7, "name": "猴子" , 	"position":"552,451", "src":"sharkItem_4_png"},
+            { "seatidx": 15, "id": 11, "name": "银鲨鱼","position":"551,534", "src":"sharkItem_1_png"},
+            { "seatidx": 16, "id": 8, "name": "兔子" , 	"position":"484,538", "src":"sharkItem_5_png"},
+            { "seatidx": 17, "id": 8, "name": "兔子" , 	"position":"420,538", "src":"sharkItem_5_png"},
+            { "seatidx": 18, "id": 8, "name": "兔子" , 	"position":"356,538", "src":"sharkItem_5_png"},
+            { "seatidx": 19, "id": 12, "name": "金鲨鱼","position":"269,508", "src":"sharkItem_0_png"},
+            { "seatidx": 20, "id": 1, "name": "燕子" , 	"position":"203,535", "src":"sharkItem_9_png"},
+            { "seatidx": 21, "id": 1, "name": "燕子" , 	"position":"137,535", "src":"sharkItem_9_png"},
+            { "seatidx": 22, "id": 1, "name": "燕子" , 	"position":"71,535", "src":"sharkItem_9_png"},
+            { "seatidx": 23, "id": 11, "name": "银鲨鱼","position":"3,534", "src":"sharkItem_1_png"},
+            { "seatidx": 24, "id": 2, "name": "鸽子" , 	"position":"3,450", "src":"sharkItem_8_png"},
+            { "seatidx": 25, "id": 2, "name": "鸽子" , 	"position":"3,364", "src":"sharkItem_8_png"},
+            { "seatidx": 26, "id": 12, "name": "金鲨鱼","position":"2,256", "src":"sharkItem_0_png"},
+            { "seatidx": 27, "id": 3, "name": "孔雀" , 	"position":"5,174", "src":"sharkItem_7_png"},
+            { "seatidx": 28, "id": 3, "name": "孔雀" , 	"position":"7,89", "src":"sharkItem_7_png"}
+        ],
+        "slotType": [
+            { "id": 1, "name": "燕子", "type": 1, "owner": 9, "icon": "goldenshark_bingo_icon_swallow", "nbr": 3, "mult1": 3, "prp1": 32, "mult2": 4, "prp2": 24, "mult3": 6, "prp3": 16, "mult4": 6, "prp4": 16, "maxbet": 9999999, "icon_small": "sharkItem_9", "position": "9,233", "sound": "jsys_bonus_effect_59", "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"79,315","betteBpPos":"81,288" },
+            { "id": 2, "name": "鸽子", "type": 1, "owner": 9, "icon": "goldenshark_bingo_icon_dove", "nbr": 2, "mult1": 12, "prp1": 12, "mult2": 8, "prp2": 18, "mult3": 8, "prp3": 18, "mult4": 6, "prp4": 24, "maxbet": 9999999, "icon_small": "sharkItem_8", "position": "87,233", "sound": "jsys_bonus_effect_58", "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"156,315","betteBpPos":"158,288" },
+            { "id": 3, "name": "孔雀", "type": 1, "owner": 9, "icon": "goldenshark_bingo_icon_peacock", "nbr": 2, "mult1": 24, "prp1": 6, "mult2": 24, "prp2": 6, "mult3": 8, "prp3": 18, "mult4": 12, "prp4": 12, "maxbet": 9999999, "icon_small": "sharkItem_7", "position": "164,233", "sound": "jsys_bonus_effect_56" , "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"233,315","betteBpPos":"235,288"},
+            { "id": 4, "name": "老鹰", "type": 1, "owner": 9, "icon": "goldenshark_bingo_icon_eagle", "nbr": 3, "mult1": 24, "prp1": 4, "mult2": 24, "prp2": 4, "mult3": 12, "prp3": 8, "mult4": 12, "prp4": 8, "maxbet": 9999999, "icon_small": "sharkItem_6", "position": "243,233", "sound": "jsys_bonus_effect_54" , "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"311,315","betteBpPos":"313,288"},
+            { "id": 5, "name": "狮子", "type": 2, "owner": 10, "icon": "goldenshark_bingo_icon_lion", "nbr": 3, "mult1": 24, "prp1": 4, "mult2": 24, "prp2": 4, "mult3": 12, "prp3": 8, "mult4": 12, "prp4": 8, "maxbet": 9999999, "icon_small": "sharkItem_2", "position": "321,233", "sound": "jsys_bonus_effect_53" , "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"389,315","betteBpPos":"391,288"},
+            { "id": 6, "name": "熊猫", "type": 2, "owner": 10, "icon": "goldenshark_bingo_icon_panda", "nbr": 2, "mult1": 24, "prp1": 6, "mult2": 24, "prp2": 6, "mult3": 8, "prp3": 18, "mult4": 12, "prp4": 12, "maxbet": 9999999, "icon_small": "sharkItem_3", "position": "400,233", "sound": "jsys_bonus_effect_55" , "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"468,315","betteBpPos":"470,288"},
+            { "id": 7, "name": "猴子", "type": 2, "owner": 10, "icon": "goldenshark_bingo_icon_monkey", "nbr": 2, "mult1": 12, "prp1": 12, "mult2": 8, "prp2": 18, "mult3": 8, "prp3": 18, "mult4": 6, "prp4": 24, "maxbet": 9999999, "icon_small": "sharkItem_4", "position": "477,233", "sound": "jsys_bonus_effect_57" , "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"546,315","betteBpPos":"548,288"},
+            { "id": 8, "name": "兔子", "type": 2, "owner": 10, "icon": "goldenshark_bingo_icon_rabbit", "nbr": 3, "mult1": 3, "prp1": 32, "mult2": 4, "prp2": 24, "mult3": 6, "prp3": 16, "mult4": 6, "prp4": 16, "maxbet": 9999999, "icon_small": "sharkItem_5", "position": "555,233", "sound": "jsys_bonus_effect_60" , "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"624,315","betteBpPos":"626,288"},
+            { "id": 9, "name": "飞禽", "type": 1, "owner": 0, "icon": "", "nbr": 1, "mult1": 2, "prp1": 144, "mult2": 2, "prp2": 144, "mult3": 2, "prp3": 144, "mult4": 2, "prp4": 144, "maxbet": 9999999, "icon_small": "sharkItem_11", "position": "138,76", "sound": "" , "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"215,158","betteBpPos":"217,131"},
+            { "id": 10, "name": "走兽", "type": 2, "owner": 0, "icon": "", "nbr": 1, "mult1": 2, "prp1": 144, "mult2": 2, "prp2": 144, "mult3": 2, "prp3": 144, "mult4": 2, "prp4": 144, "maxbet": 9999999, "icon_small": "sharkItem_10", "position": "411,76", "sound": "" , "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"489,158","betteBpPos":"491,131"},
+            { "id": 11, "name": "银沙鱼", "type": 3, "owner": 0, "icon": "goldenshark_silversharkbig", "nbr": 4, "mult1": 24, "prp1": 3, "mult2": 24, "prp2": 3, "mult3": 24, "prp3": 3, "mult4": 24, "prp4": 3, "maxbet": 9999999, "icon_small": "sharkItem_1", "position": "228,76", "sound": "jsys_bonus_effect_52" , "up":"bluebtn_nomal_png","down":"bluebtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"308,158","betteBpPos":"310,131"},
+            { "id": 12, "name": "金鲨鱼", "type": 3, "owner": 0, "icon": "goldenshark_goldensharkbig", "nbr": 4, "mult1": 36, "prp1": 2, "mult2": 36, "prp2": 2, "mult3": 36, "prp3": 2, "mult4": 36, "prp4": 2, "maxbet": 9999999, "icon_small": "sharkItem_0", "position": "319,76", "sound": "jsys_bonus_effect_51" , "up":"redbtn_nomal_png","down":"redbtn_selected_png", "disabled":"disabled_mask_png", "totalBpPos":"398,158","betteBpPos":"400,131"}
+        ],
+		"labelPosition":[
+			{"id": 1,"font":"colornumber2_fnt","position":"288,20", "name":"CountLable"},
+			{"id": 2,"font":"colornumber_small_fnt","position":"234,37","name":"winLabel"},
+			{"id": 3,"font":"colornumber_small_fnt","position":"606,37", "name":"totalLabel"},
+			{"id": 4,"font":"colornumber_small_fnt","position":"68,171", "name":"oneBetteLabel"}
+		],
+		"otherIcon":[
+			{"id":0,"position":"96,576","width":52,"height":31,"src":"new_png"},
+			{"id":1,"position":"67,340", "src":"goldenshark_rollbase1_png","scaleX":1,"scaleY":1},
+			{"id":2,"position":"569,340", "src":"goldenshark_rollbase1_png","scaleX":-1,"scaleY":1},
+			{"id":3,"position":"277,158", "src":"goldenshark_rollbase_png","scaleX":1,"scaleY":1},
+			{"id":4,"position":"277,631", "src":"goldenshark_rollbase_png","scaleX":1,"scaleY":-1}
+		]
+    }

@@ -1,0 +1,13 @@
+[
+{"up":"red_btn_nomal_png","up_9":"19,17,11,2","down":"red_btn_selected_png","down_9":"20,17,16,1","disabled":"red_btn_nomal_png","disabled_9":"22,17,4,1","width":128,"height":42,"text":"自动跟注","x":505,"y":21,"layout":"button","size":20,"name":"autoBette_btn"},
+{"up":"change_btn_nomal","up_9":"","down":"change_btn_selected","down_9":"","disabled":"change_btn_disable","disabled_9":"","width":0,"height":0,"text":"切换","x":23,"y":105,"layout":"button","size":20,"name":"changeBette_btn"},
+{"up":"yellow_btn_nomal_png","up_9":"19,17,11,2","down":"yellow_btn_selected_png","down_9":"36,18,19,4","disabled":"yellow_btn_disabled_png","disabled_9":"25,20,4,3","width":128,"height":42,"text":"单注全选","x":505,"y":123,"layout":"button","size":20,"name":"allSelect_btn"},
+{"up":"red_btn_nomal_png","up_9":"19,17,11,2","down":"red_btn_selected_png","down_9":"20,17,16,1","disabled":"red_btn_nomal_png","disabled_9":"22,17,4,1","width":128,"height":42,"text":"重复押注","x":505,"y":72,"layout":"button","size":20,"name":"reBette_btn"},
+{"up":"sel_bg_png","up_9":"18,19,3,1","down":"","down_9":"","disabled":"","disabled_9":"","width":140,"height":40,"text":"跟注5轮","x":498,"y":-92,"layout":"glb_btn","size":20,"name":"auto_bette_5"},
+{"up":"sel_bg_png","up_9":"18,19,3,2","down":"","down_9":"","disabled":"","disabled_9":"","width":140,"height":40,"text":"跟注10轮","x":498,"y":-16,"layout":"glb_btn","size":20,"name":"auto_bette_10"},
+{"up":"sel_bg_png","up_9":"18,19,3,3","down":"","down_9":"","disabled":"","disabled_9":"","width":140,"height":40,"text":"跟注50轮","x":498,"y":-54,"layout":"glb_btn","size":20,"name":"auto_bette_50"},
+{"up":"confirmUnder","up_9":"28,27,16,7","down":"","down_9":"","disabled":"","disabled_9":"","width":120,"height":58,"text":"充值","x":330,"y":15,"layout":"head_btn","size":28,"name":"reduce_btn"},
+{"up":"confirmUnder","up_9":"28,27,16,9","down":"","down_9":"","disabled":"","disabled_9":"","width":120,"height":58,"text":"排行榜","x":480,"y":15,"layout":"head_btn","size":28,"name":"ph_btn"},
+{"up":"close_btn_nomal_png","up_9":"","down":"close_btn_selected_png","down_9":"","disabled":"close_btn_diabled_png","disabled_9":"","width":0,"height":0,"text":"","x":492,"y":0,"layout":"close_btn","size":0,"name":"close_btn"},
+{"up":"send_normal","up_9":"","down":"send_down","down_9":"","disabled":"","disabled_9":"","width":0,"height":0,"text":"发送","x":443,"y":570,"layout":"send_btn","size":28,"name":"send_btn"}
+]

@@ -1,0 +1,13 @@
+{"file":"movie.png","frames":{
+"bl_png":{"x":1,"y":1,"w":752,"h":478,"offX":0,"offY":11,"sourceW":752,"sourceH":503},
+"boss_mc_flower_png":{"x":698,"y":481,"w":229,"h":228,"offX":0,"offY":0,"sourceW":229,"sourceH":228},
+"countdown_1_png":{"x":755,"y":191,"w":149,"h":199,"offX":0,"offY":0,"sourceW":149,"sourceH":199},
+"countdown_2_png":{"x":1,"y":896,"w":149,"h":199,"offX":0,"offY":0,"sourceW":149,"sourceH":199},
+"countdown_3_png":{"x":152,"y":896,"w":149,"h":199,"offX":0,"offY":0,"sourceW":149,"sourceH":199},
+"goldenshark_countdown_highlight_png":{"x":755,"y":392,"w":73,"h":73,"offX":0,"offY":0,"sourceW":73,"sourceH":73},
+"goldenshark_givelight_png":{"x":639,"y":723,"w":382,"h":149,"offX":0,"offY":0,"sourceW":382,"sourceH":149},
+"goldenshark_givelightstar_png":{"x":755,"y":1,"w":184,"h":188,"offX":0,"offY":0,"sourceW":184,"sourceH":188},
+"guide_tip_png":{"x":1,"y":789,"w":636,"h":105,"offX":0,"offY":0,"sourceW":636,"sourceH":105},
+"shine_glow_png":{"x":456,"y":481,"w":240,"h":240,"offX":0,"offY":0,"sourceW":240,"sourceH":240},
+"start_bette_png":{"x":639,"y":874,"w":384,"h":107,"offX":0,"offY":0,"sourceW":384,"sourceH":107},
+"textbg_jpg":{"x":1,"y":481,"w":453,"h":306,"offX":0,"offY":0,"sourceW":453,"sourceH":306}}}

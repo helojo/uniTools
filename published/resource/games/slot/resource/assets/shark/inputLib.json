@@ -1,0 +1,10 @@
+{"file":"inputLib.png","frames":{
+"addSubUnder":{"x":74,"y":1,"w":57,"h":60,"offX":0,"offY":0,"sourceW":57,"sourceH":60},
+"buttonDisable":{"x":169,"y":1,"w":34,"h":79,"offX":0,"offY":0,"sourceW":34,"sourceH":79},
+"buttonDown":{"x":205,"y":1,"w":34,"h":79,"offX":0,"offY":0,"sourceW":34,"sourceH":79},
+"buttonUp":{"x":133,"y":1,"w":34,"h":79,"offX":0,"offY":0,"sourceW":34,"sourceH":79},
+"confirmUnder":{"x":1,"y":1,"w":71,"h":62,"offX":0,"offY":0,"sourceW":71,"sourceH":62},
+"progress":{"x":109,"y":109,"w":23,"h":17,"offX":2,"offY":2,"sourceW":27,"sourceH":25},
+"proUnder":{"x":109,"y":82,"w":27,"h":25,"offX":0,"offY":0,"sourceW":27,"sourceH":25},
+"resetUnder":{"x":1,"y":65,"w":71,"h":62,"offX":0,"offY":0,"sourceW":71,"sourceH":62},
+"textInputUnder":{"x":74,"y":63,"w":33,"h":57,"offX":0,"offY":0,"sourceW":33,"sourceH":57}}}

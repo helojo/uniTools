@@ -2,5 +2,15 @@
   "name": "uniTools",
   "bin": {
     "uniTools": "uniTools"
+  },
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-git": "^1.6.0",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.1.5",
+    "vinyl-paths": "^2.1.0"
   }
 }
