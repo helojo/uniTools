@@ -6,7 +6,7 @@
   "devDependencies": {
     "del": "^2.1.0",
     "gulp": "^3.9.0",
-    "gulp-bump": "^1.0.0",
+    "gulp-bump": "^2.5.1",
     "gulp-git": "^1.6.0",
     "gulp-strip-debug": "^1.1.0",
     "gulp-util": "^3.0.7",
